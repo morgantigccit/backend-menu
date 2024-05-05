@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Auth;
 
 class AdminCategoryController extends Controller
 {
+    //testing for github push and pull requests
     // Display a listing of the categories
     public function index()
     {
